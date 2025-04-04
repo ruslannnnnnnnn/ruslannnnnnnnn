@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruslannnnnnnnn&label=Profile%20views&color=0e75b6&style=flat" alt="ruslannnnnnnnn" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruslannnnnnnnn" alt="ruslannnnnnnnn" /></a> </p>
-
 - 🔭 I’m currently working on [cat_alog](https://github.com/ruslannnnnnnnn/cat_alog)
 
 - 📫 How to reach me **https://t.me/ruslanzzzzzzzz**
