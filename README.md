@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ruslan</h1>
 <h3 align="center">backend developer from Russia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ruslannnnnnnnn&label=Profile%20views&color=0e75b6&style=flat" alt="ruslannnnnnnnn" /> </p>
-
 - 🔭 I’m currently working on [cat_alog](https://github.com/ruslannnnnnnnn/cat_alog)
 
 - 📫 How to reach me **https://t.me/ruslanzzzzzzzz**
