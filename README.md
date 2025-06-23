@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ruslan</h1>
 <h3 align="center">backend developer from Russia</h3>
 
-- 🔭 I’m currently working on [cat_alog](https://github.com/ruslannnnnnnnn/cat_alog)
+- 🔭 I’m currently working on [chat](https://github.com/ruslannnnnnnnn/chat-backend)
 
 - 📫 How to reach me **https://t.me/ruslanzzzzzzzz**
 
